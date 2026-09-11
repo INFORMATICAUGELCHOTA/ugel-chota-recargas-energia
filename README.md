@@ -95,3 +95,4 @@ Administración:
 ## Seguridad
 
 No publiques `service_role`, contraseña de base de datos ni otras claves privadas. La Publishable Key puede utilizarse en el cliente porque el acceso está controlado por RLS.
+Despliegue inicial en Vercel
